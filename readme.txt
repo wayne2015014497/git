@@ -8,3 +8,4 @@ creating a new branch  is quick and simple.
 and merge
 I need to debug now 
 
+test different hosts for git
