@@ -9,3 +9,5 @@ and merge
 I need to debug now 
 
 test different hosts for git
+
+can both of us update for the same time???
